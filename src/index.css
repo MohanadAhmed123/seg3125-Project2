@@ -1,0 +1,98 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #E48125;
+}
+
+.nav-tabs .nav-link.active {
+  color: #330000;
+  background-color: white;
+  font-weight: bold;    
+  border-color: #666666;
+  border-width: 2px;
+  border-bottom: 0px;
+  border-style: solid;
+}
+
+.nav-tabs .nav-link:not(.active){
+  color: white;
+  background-color: #E48125;    
+}
+
+
+section{
+  padding: 75px 0;
+}
+
+
+/* Nav bar */
+
+.navbar img{
+  max-height: 50px;
+}
+
+
+/* Home Page section */
+
+#intro img{
+  max-height: 350px;
+}
+
+#intro .card {
+  max-width: 20rem;
+}
+
+#intro .card-body {
+  background-color: #DEDEDE;
+}
+
+#intro .card a{
+  color: white;
+}
+
+
+/* Our Courses section */
+
+#courses .tab-content {
+  background-color: white;
+  border-color: #666666;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#courses .card Button{
+  color: white;
+}
+
+#courses .business-en-course-card {
+  max-width: 350px;
+}
+
+#courses .card {
+  width: fluid;
+  max-width: 300px;
+  border-color: #1B3280;
+  border-width: 3px;
+}
+
+#courses img {
+  max-width: fit-content;
+}
+
+
+#analyze .container-lg .row .col-2 .bi {
+  font-size: 75px;
+}

@@ -1,0 +1,33 @@
+
+{
+    "home_title": "English Wizard",
+    "home_subtitle": "Enjoy Your English Learning Journey!",
+    "home_splash": "If you want to improve your English skills while enjoying every minute of your language-learning journey, you can enroll now in one of English Wizard's adventures!",
+    "enroll_now": "Enroll Now",
+    "play_and_practice": "Play and Practice",
+    "play_and_practice_text": "We turn language learning into sheer fun. You will play games, watch animated videos and practice all aspects of the English language.",
+    "courses": "Our Courses",
+    "courses_text": "We offer a variety of courses that cater for all your needs. Our team of highly qualified English tutors will help you achieve all your learning and professional goals. ",
+    "learn_more": "Learn More",
+    "contact_us_title": "Contact Us",
+    "FAQ": "Frequently Asked Questions",
+    "FAQ1": "1- How can I access my courses after making the payment?",
+    "FAQA1": "You will receive an email with the access link, user name and temporary password. The email will also include the course navigation guide.",
+    "FAQ2": "2- What is the difference between IELTS, TOEFL and Duolingo?",
+    "FAQA2": "IELTS, TOEFL and Duolingo are English language proficiency tests offered by different educational institutions. They have different types of questions, yet they all assess the four language skills: listening, reading, speaking and writing.",
+    "FAQ3": "3- Which courses focus on business English skills?",
+    "FAQA3": "You can enroll in the Business Writing Course if you aim at enhancing your writing skills. If your aim is to improve your speaking skills, especially in meetings, presentations, etc., you should enroll in the Public Speaking Course.",
+    "FAQ4": "4- When will I receive feedback on my submitted assignments?",
+    "FAQA4": "The feedback is sent within 48 hours of the assignment submission. It can be written or audio feedback, and will include an action plan for improving your speaking/writing skills.",
+    "requestor": "Requestor Name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "query_label": "What is your question/request about?",
+    "enrollment": "Course Enrollment query",
+    "business": "Business query",
+    "other": "Other query",
+    "msg": "Message",
+    "msg_place": "How can we help you? (Questions, requests, etc.)",
+    "send": "Send Message"
+
+}
